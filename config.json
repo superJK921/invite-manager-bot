@@ -2,10 +2,10 @@
 	"devToken": "",
 	"sentryDsn": "",
 	"bot": {
-		"type": "regular",
+		"type": "pro",
 		"ids": {
-			"regular": "",
-			"pro": ""
+			"regular": "734884272652943450",
+			"pro": "734927029589508106"
 		},
 		"links": {
 			"add": "https://invitemanager.co/add-bot/",
@@ -14,8 +14,8 @@
 			"patreon": "https://www.patreon.com/invitemanager"
 		},
 		"dm": {
-			"guild": "",
-			"channel": ""
+			"guild": "466438595389947905",
+			"channel": "734927942966050934"
 		},
 		"apiAuth": {
 			"username": "",
